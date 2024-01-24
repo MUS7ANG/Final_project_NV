@@ -33,7 +33,7 @@ pytest==6.2.5
 ## Installation & Usage
 
 ```bash
-$ git clone 
+$ git clone https://github.com/MUS7ANG/Final_project_NV.git
 $ cd fastapi-web-starter
 # install packages
 $ pip install -r requirements.txt
